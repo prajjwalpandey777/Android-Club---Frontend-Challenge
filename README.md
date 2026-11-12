@@ -26,7 +26,7 @@ The site uses only **HTML5, CSS3 and vanilla JavaScript (ES6+)**. It has no fram
 
 ## Live Demo
 
-> `https://androidclub.vercel.app/`
+> [`https://androidclub.vercel.app/`](https://androidclub.vercel.app/)
 
 ## Features
 
